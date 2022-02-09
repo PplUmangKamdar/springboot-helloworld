@@ -1,1 +1,1 @@
-# springboot-helloworld
+# springboot-heroku-helloworld
